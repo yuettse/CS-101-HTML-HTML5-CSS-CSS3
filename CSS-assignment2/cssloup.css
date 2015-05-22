@@ -1,0 +1,41 @@
+div.container > div {
+	background-color: lightgray;
+	border-radius: 30px;
+	vertical-align: top;
+}
+
+#rightlist{
+	display: inline-block;
+	background-color: gray;
+	width: 665px;
+	margin: 20px 0 10px 10px;
+	padding: 30px 15px;
+}
+
+#leftlist{
+	display: inline-block;
+	width: 250px;
+	margin: 20px 0 10px 10px;
+}
+
+.container{
+    width: 970px;
+    margin: 0 auto;
+}
+
+#bottom{
+    padding: 20px;
+}
+
+#loup{
+    padding:5px;
+}
+
+#leftlist a{
+    margin: 5px;
+    text-decoration: none;
+}
+
+#rightlist > ul > li {
+    margin: 20px;
+}
