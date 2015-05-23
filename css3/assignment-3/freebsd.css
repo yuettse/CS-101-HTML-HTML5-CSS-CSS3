@@ -1,0 +1,92 @@
+#container{
+    width: 970px;
+    margin: 0 auto;
+    /*I DONT KNOW THE FONT~~~*/
+}
+#header{
+    background-color: darkred;
+    padding: 35px;
+}
+#logo{
+    position: relative;
+    width: 460px;
+    display: inline-block;
+}
+#thepowertoserve{
+    display: inline-block;
+    font-size: 24px;
+    color: whitesmoke;
+    position: relative;
+   
+    left: 80px;
+}
+
+#search{
+    display:inline-block;
+    position: absolute;
+    font-size: 13px;
+    color:white;
+    margin: 10px 0 0 170px;
+}
+
+#search a{
+    color:yellow;
+}
+
+#searchbox{
+    position:absolute;
+    margin: 5px 0 0 48px;
+}
+
+#menu{
+    background-color: whitesmoke;
+    border-bottom: solid 1px lightgray;
+    font-size: 13®px;
+    font-weight: bold;
+}
+
+#menu ul li{
+    list-style-type: none;
+    display: inline;
+}
+
+#menu a{
+    text-decoration: none;
+    margin:0 10px;
+    color: dimgray;
+}
+
+#body{
+    margin: 5px 20px;
+}
+
+#body a{
+    color:darkred;
+}
+
+strong{
+    color:darkred;
+}
+
+
+#list{
+    padding: 0 5px;
+    margin:20px;
+    background-color: whitesmoke;
+    border: 1px solid lightgray;
+    display:inline-block;
+    vertical-align: top;
+    width:170px;
+}
+
+#content{
+    display:inline-block;
+    margin:20px 0;
+    width:700px;
+    font-size: 14px;
+}
+
+#list ul li {
+    padding:5px;
+    font-size: 14px;
+}
